@@ -1,0 +1,23 @@
+body{
+    background-size:cover;
+}
+
+.header{
+    width:100%;
+    top:100%;
+}
+
+.buttons1{
+    float:left;
+    margin-left:880px;
+}
+
+.buttons2{
+    float:left;
+    margin-left: 5px;
+}
+
+.note{
+    
+    margin-left:800px;
+}
